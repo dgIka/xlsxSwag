@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import org.xslxSwag.Service.ExcelReadService;
-import org.xslxSwag.Service.SelectNService;
+import org.xslxSwag.service.ExcelReadService;
+import org.xslxSwag.service.SelectNService;
 
 import java.io.IOException;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.xslxSwag.Service;
+package org.xslxSwag.service;
 
 import org.springframework.stereotype.Service;
 
